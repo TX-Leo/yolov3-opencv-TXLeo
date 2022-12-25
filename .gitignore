@@ -160,3 +160,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
 
+#!!!!!!!!!!!!!!!!!!!ignore yolov3.weights(because this file is 248MB>100MB)!!!!!!!!!!!!!!!!!!!!!!
+/cfg/yolov3.weights
